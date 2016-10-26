@@ -1,0 +1,1 @@
+angular.module("app", ["chart.js", "lineChart", "barChart", "pieChart", "bubbleChart"]);
